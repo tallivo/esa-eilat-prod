@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://esa-eilat.com/sitemap-index.xml
